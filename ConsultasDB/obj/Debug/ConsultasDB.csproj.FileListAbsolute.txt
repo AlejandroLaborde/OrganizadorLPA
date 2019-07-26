@@ -1,0 +1,9 @@
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\obj\Debug\ConsultasDB.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\bin\Debug\ConsultasDB.dll
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\bin\Debug\ConsultasDB.pdb
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\bin\Debug\Entidades.dll
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\bin\Debug\Entidades.pdb
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\obj\Debug\ConsultasDB.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\obj\Debug\ConsultasDB.csproj.CopyComplete
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\obj\Debug\ConsultasDB.dll
+C:\Users\Alejandro\source\repos\OrganizadorLPA\ConsultasDB\obj\Debug\ConsultasDB.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\bin\Debug\OrganizadorLPA.exe.config
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\bin\Debug\OrganizadorLPA.exe
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\bin\Debug\OrganizadorLPA.pdb
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\obj\Debug\OrganizadorLPA.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\obj\Debug\OrganizadorLPA.Form1.resources
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\obj\Debug\OrganizadorLPA.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\obj\Debug\OrganizadorLPA.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\obj\Debug\OrganizadorLPA.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\obj\Debug\OrganizadorLPA.exe
+C:\Users\Alejandro\source\repos\OrganizadorLPA\OrganizadorLPA\obj\Debug\OrganizadorLPA.pdb
