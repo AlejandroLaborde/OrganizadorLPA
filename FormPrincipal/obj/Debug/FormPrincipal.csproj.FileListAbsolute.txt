@@ -1,0 +1,10 @@
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\obj\Debug\FormPrincipal.csprojAssemblyReference.cache
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\alaborde\Desktop\OrganizadorLPA\FormPrincipal\obj\Debug\FormPrincipal.pdb
